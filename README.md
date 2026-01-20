@@ -15,6 +15,8 @@ This repository introduces **Congruity**: a formal way to detect when additional
 This is not a replacement for the X algorithm.  
 It is a missing constraint.
 
+This framework is intentionally non-invasive:
+it defines when optimization should stop, not how to optimize further.
 ---
 
 ## The problem already observed at scale
